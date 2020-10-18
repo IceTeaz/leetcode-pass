@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [专注于golong题解](README.md)
 
